@@ -1,10 +1,7 @@
 public class Student{
 
-    int id;
-    String name;
-    public static void main(){
+    public static void main22(){
         System.out.println("hii");
     }
-
 
 }
